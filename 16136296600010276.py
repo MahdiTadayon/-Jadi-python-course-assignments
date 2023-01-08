@@ -1,5 +1,5 @@
-x=input()
-x=int(x)
+x=int(input())
+
 if(0<x and x<6):
     print('khordsal')
 if(6<=x and x<10):
